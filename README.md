@@ -12,15 +12,15 @@ $s(t)=(x(t),y(t),z(t)),t∈[0,r]$
   
 $S((t;t;t),t,0,r)$  
 
-$(C;B;A),X,Y,Z)$  
+$(L;C;P),T,0,R)$  
 
-| functions | Symbol   | geometry |
-|:---------:|:--------:|:--------:|
-| $x(t)$ | radial distance  | I   |
-| $y(t)$ | z-axis rotation  | O   |
-| $z(t)$ | y-axis rotation  | 8   |
-| $[0,r]$ | interval  | (  )  |
-| $s(t)$ | space curves   | ∞ |
+| functions | Symbol   | geometry |Parameter|
+|:---------:|:--------:|:--------:|:--------:|
+| $x(t)$ | radial distance  | Line   |(t;C;P)|
+| $y(t)$ | z-axis rotation  |  Circle |(L;t;P)|
+| $z(t)$ | y-axis rotation  | Point   |(L;C;t)|
+| $[0,r]$ | interval  | Square |(T,0,R)|
+| $s(t)$ | space curves   |String|S(t)|
 
 $t - bounded$  
 $S - Infinity$
