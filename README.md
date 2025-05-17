@@ -28,11 +28,11 @@ $(L;C;P),T,0,R)$
 |$(t,0,r)$|O |•| I|
 |$S(t)$|•| I |O |  
 
-| 𝐅   | 𝐁 |  𝐈 |
-|  :--:  |  :--: |  :--:  | 
-|8|O | I|
-|I|8 | O|
-|O|I | 8|
+| 𝐅   | 𝐁 |  𝐈 |current|
+|  :--:  |  :--: |  :--:  | :--:  | 
+|8|O | I| Straight|
+|I|8 | O|Helical|
+|O|I | 8|Toroid |
 
 $t - bounded$  
 $S - Infinity$
