@@ -24,9 +24,9 @@ $(L;C;P),T,0,R)$
 
 | Parametric | Line | Circle |Point|
 |  :--:  |  :--: |  :--: |:--: |
-|$(t;t;t)$ |I| O | .  |
-|$(t,0,r)$|O |. | I|
-|$S(t)$|. | I |O | 
+|$(t;t;t)$ |I| O | •  |
+|$(t,0,r)$|O |•| I|
+|$S(t)$|•| I |O | 
 
 $t - bounded$  
 $S - Infinity$
