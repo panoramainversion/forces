@@ -16,11 +16,11 @@ $(L;C;P),T,0,R)$
 
 | functions | Symbol   | geometry |Parameter|
 |:---------:|:--------:|:--------:|:--------:|
-| $x(t)$ | radial distance  | Line   |(t;C;P)|
-| $y(t)$ | z-axis rotation  |  Circle |(L;t;P)|
-| $z(t)$ | y-axis rotation  | Point   |(L;C;t)|
-| $[0,r]$ | interval  | Square |(T,0,R)|
-| $s(t)$ | space curves   |String|S(t)|
+| $x(t)$ | radial distance  | Line   |$(t;C;P)$|
+| $y(t)$ | z-axis rotation  |  Circle |$(L;t;P)$|
+| $z(t)$ | y-axis rotation  | Point   |$(L;C;t)$|
+| $[0,r]$ | interval  | Square |$(T,0,R)$|
+| $s(t)$ | space curves   |String|$S(t)$|
 
 $t - bounded$  
 $S - Infinity$
