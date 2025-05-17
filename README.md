@@ -22,5 +22,11 @@ $(L;C;P),T,0,R)$
 | $[0,r]$ | interval  | Square |$(T,0,R)$|
 | $s(t)$ | space curves   |String|$S(t)$|
 
+| Parametric | Line | Circle |Point|
+|  :--:  |  :--: |  :--: |:--: |
+|$(t;t;t)$ |I| O | .  |
+|$(t,0,r)$|O |. | I|
+|$S(t)$|. | I |O | 
+
 $t - bounded$  
 $S - Infinity$
