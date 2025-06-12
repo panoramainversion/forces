@@ -3,8 +3,8 @@ Fundamental Interactions
 | Parametric Curve             | Domain      | Force             |  Continent   |  Element|
 |--------------------------|--------------|------------------------|---------------|-------|
 | $s(t)=(x(t),y(t),z(t))$  | $t∈[0,r]$     | Fundamental Force      |Mount Meru|    Earth|
-|$s(t)=(x(t),y(t),z(t²))$  | $t∈[0,r]$   | Weak Nuclear Force     |Purvavideha|      Wood|
-| $s(t)=(x(t),y(t²),z(t))$ | $t∈[0,r]$     | Strong Nuclear Force   |Jambudvipa|     Fire|
+|$s(t)=(x(t),y(t),z(t²))$  | $t∈[0,r]$   | Weak Nuclear Force     |Purvavideha|      Fire|
+| $s(t)=(x(t),y(t²),z(t))$ | $t∈[0,r]$     | Strong Nuclear Force   |Jambudvipa|     Wood|
 | $s(t)=(x(t²),y(t),z(t))$  | $t∈[0,r]$     | Electromagnetic Force  |Aparagodaniya| Metal|
 | $s(t)=(x(t),y(t),z(t))$   | $t∈[0,r²]$   | Gravitational Force    |Uttarakuru |    Water|
 
